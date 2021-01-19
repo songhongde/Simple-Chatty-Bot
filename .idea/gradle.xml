@@ -11,9 +11,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Division" />
             <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Problems/Floor-space of the room" />
             <option value="$PROJECT_DIR$/Problems/Guest list of a hotel" />
             <option value="$PROJECT_DIR$/Problems/Hello, Java" />
             <option value="$PROJECT_DIR$/Problems/Hello_" />
